@@ -9,9 +9,9 @@ Introduction to Basic Programming for Data Science and Data Visualization : ม�
   * [Dashboard](https://datastudio.google.com/reporting/ccc6501a-2003-44b7-bead-2e13730f3983)
   * [Present](https://www.canva.com/design/DAE75VGQkIU/pV528FS-2Kc4RgLz6GPD4g/edit?utm_content=DAE75VGQkIU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-#Final Exam
- *[Final](https://github.com/chuangchai49097/data_viz_2022/blob/main/Final_Exam.ipynb)
- *[Dashboard](https://datastudio.google.com/u/0/reporting/7a98d59e-f922-40f0-8220-91e0c6969b13/page/LiCqC?fbclid=IwAR0oDvYmqySClLYDITeGe6NzFc8mbjUHZWtmWDrGFwlNG7xI9FDEiBxAy0Q)
+# Final Exam
+ * [Final](https://github.com/chuangchai49097/data_viz_2022/blob/main/Final_Exam.ipynb)
+ * [Dashboard](https://datastudio.google.com/u/0/reporting/7a98d59e-f922-40f0-8220-91e0c6969b13/page/LiCqC?fbclid=IwAR0oDvYmqySClLYDITeGe6NzFc8mbjUHZWtmWDrGFwlNG7xI9FDEiBxAy0Q)
 
 # สารบัญเนื้อหา
 * [introduction](https://github.com/chuangchai49097/data_viz_2022/blob/main/Intro0.ipynb)
