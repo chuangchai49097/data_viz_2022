@@ -5,6 +5,7 @@ Introduction to Basic Programming for Data Science and Data Visualization : ม�
 # Midterm Exam
 * [midterm](https://github.com/chuangchai49097/data_viz_2022/blob/main/BasicPython%26DataViz_midterm2022.ipynb)
 
+# Project 3 คน
 * [Project](https://github.com/chuangchai49097/data_viz_2022/blob/main/Project_Python.ipynb)
   * [Dashboard](https://datastudio.google.com/reporting/ccc6501a-2003-44b7-bead-2e13730f3983)
   * [Present](https://www.canva.com/design/DAE75VGQkIU/pV528FS-2Kc4RgLz6GPD4g/edit?utm_content=DAE75VGQkIU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
